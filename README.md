@@ -4,7 +4,7 @@
 
 ### Тестовое задание по вёрстке 
 ---
-https://timbad1.github.io/Blanchard
+[Blanchard](https://timbad1.github.io/Blanchard)
 
 ### Курсовой проект по вёрстке с использованием различных js-библиотек и 
 ---
