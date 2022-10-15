@@ -1,5 +1,5 @@
 ## React
-===
+***
 ### Отправление приглашений одному или нескольким пользователям
 
 [List-Users](https://timbad1.github.io/react-list-users/)
@@ -9,7 +9,7 @@
 [Quiz](https://timbad1.github.io/react-quiz/)
 ---
 ## Верстка
-===
+***
 ### Тестовое задание по вёрстке 
 
 [Venarus](https://timbad1.github.io/venarus)
@@ -23,7 +23,7 @@
 [Portfolio-Phorograph](https://timbad1.github.io/portfolio-phorograph/portfolio-phorograph/)
 ---
 ## JS
-===
+***
 ### Игра пары на чистом js
 
 [Pair game](https://timbad1.github.io/pair-game/)
