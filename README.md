@@ -2,7 +2,7 @@
 
 [Quiz](https://timbad1.github.io/react-quiz/)
 
-### Приложение викторины на React
+### Приложение викторины на React (небольшой тест по html)
 ---
 ## Верстка
 
