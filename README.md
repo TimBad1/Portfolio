@@ -1,6 +1,8 @@
 ***
 ## React
-
+#### Каталог товаров с описанием
+#### [react-catalog](https://timbad1.github.io/React-Api/)
+---
 #### Отправление приглашений одному или нескольким пользователям
 #### [List-Users](https://timbad1.github.io/react-list-users/)
 ---
