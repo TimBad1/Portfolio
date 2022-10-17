@@ -2,7 +2,7 @@
 ## React
 
 #### Каталог товаров с описанием
-#### [react-catalog](https://timbad1.github.io/React-Api/)
+#### [![shop catalog screenshoot](https://clip2net.com/s/4gT3ENU)](https://timbad1.github.io/React-Api/)
 ---
 #### Конвертор валют
 #### [currency-converter](https://timbad1.github.io/currency-convertor/)
