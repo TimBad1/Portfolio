@@ -1,5 +1,9 @@
 ***
 ## React
+
+#### Конвертор валют
+#### [currency-converter](https://timbad1.github.io/currency-convertor/)
+---
 #### Каталог товаров с описанием
 #### [react-catalog](https://timbad1.github.io/React-Api/)
 ---
