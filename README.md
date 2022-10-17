@@ -1,11 +1,11 @@
 ***
 ## React
 
-#### Конвертор валют
-#### [currency-converter](https://timbad1.github.io/currency-convertor/)
----
 #### Каталог товаров с описанием
 #### [react-catalog](https://timbad1.github.io/React-Api/)
+---
+#### Конвертор валют
+#### [currency-converter](https://timbad1.github.io/currency-convertor/)
 ---
 #### Отправление приглашений одному или нескольким пользователям
 #### [List-Users](https://timbad1.github.io/react-list-users/)
