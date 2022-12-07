@@ -23,9 +23,6 @@
 ---
 #### Проект по верстке, на 2х языках со светлой и тёмной темами и видеоплеером созданным под Google Chrome
 #### [Portfolio-Phorograph](https://timbad1.github.io/portfolio-phorograph/portfolio-phorograph/)
----
-#### Анимированная шкала
-#### [animation css](https://timbad1.github.io/test-speedometr/)
 ***
 ## JS
 
