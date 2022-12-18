@@ -1,6 +1,9 @@
 ***
 ## React
 
+#### [ФАКТЫ о КОТАХ (получаем данные с апи, реализовано через redux)](https://timbad1.github.io/React-meowfacts/)
+---
+
 #### [Каталог товаров с описанием](https://timbad1.github.io/React-Api/)
 ---
 
