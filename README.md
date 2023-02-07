@@ -2,9 +2,7 @@
 ## React
 
 #### [Админка на просмотр списка заказов](https://timbad1.github.io/admin-example/)
-работают 2 аккаунта:
-'admin@example.com' - 'admin'
-'123@123.23' - '123'
+работают 2 аккаунта: 'admin@example.com' - 'admin' и '123@123.23' - '123'
 
 #### [ФАКТЫ о КОТАХ (получаем данные с апи, реализовано через redux)](https://timbad1.github.io/React-meowfacts/)
 ---
