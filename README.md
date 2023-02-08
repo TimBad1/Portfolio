@@ -1,7 +1,8 @@
 ***
 ## React
 
-[Админка. Инструменты - React, TS, SCSS, Axios, Redux](https://github.com/TimBad1/admin-example)
+#### [Админка. Инструменты - React, TS, SCSS, Axios, Redux](https://github.com/TimBad1/admin-example)
+---
 
 #### [ФАКТЫ о КОТАХ (получаем данные с апи, реализовано через redux)](https://timbad1.github.io/React-meowfacts/)
 ---
