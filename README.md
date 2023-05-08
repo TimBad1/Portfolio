@@ -37,7 +37,5 @@
 
 #### Игра пары на чистом js
 #### [Pair game](https://timbad1.github.io/pair-game/)
----
-#### Приложение получает данные с описанием фильмов, работает поиск фильмов
-#### [movie-app](https://timbad1.github.io/movie-app/)
+
 ***
