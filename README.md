@@ -24,14 +24,21 @@
 ***
 ## Верстка
 
-#### Тестовое задание по вёрстке 
-#### [Venarus](https://timbad1.github.io/venarus)
+#### Проект по вёрстке с использованием gulp
+#### [Monoteka](https://timbad1.github.io/monoteka/app/)
 ---
+
+
+
 #### Проект по вёрстке с использованием различных js-библиотек
 #### [Blachard](https://timbad1.github.io/Blanchard)
 ---
 #### Проект по верстке, на 2х языках со светлой и тёмной темами и видеоплеером созданным под Google Chrome
 #### [Portfolio-Phorograph](https://timbad1.github.io/portfolio-phorograph/portfolio-phorograph/)
+---
+#### Тестовое задание по вёрстке 
+#### [Venarus](https://timbad1.github.io/venarus)
+
 ***
 ## JS
 
