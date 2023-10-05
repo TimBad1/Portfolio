@@ -1,22 +1,13 @@
 ***
 ## React
 
-#### [CRM с поиском адреса](https://timbad1.github.io/react-test/)
----
-
-#### [Админка. Инструменты - React, TS, SCSS, Axios, Redux](https://github.com/TimBad1/admin-example)
----
-
-#### [ФАКТЫ о КОТАХ (получаем данные с апи, реализовано через redux)](https://timbad1.github.io/React-meowfacts/)
+#### [График стоимости биткоина (vite/React/TS/Redux/Chart.js)](https://github.com/TimSpektrov/bitcoin-react-ts)
 ---
 
 #### [Каталог товаров с описанием](https://timbad1.github.io/React-Api/)
 ---
 
-#### [Конвертор валют](https://timbad1.github.io/currency-convertor/)
----
-
-#### [Отправление приглашений](https://timbad1.github.io/react-list-users/)
+#### [Каталог товаров с описанием](https://timbad1.github.io/React-Api/)
 ---
 
 #### [Приложение викторины на React (тест на знание html)](https://timbad1.github.io/react-quiz/)
