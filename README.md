@@ -7,9 +7,6 @@
 #### [Каталог товаров с описанием](https://timbad1.github.io/React-Api/)
 ---
 
-#### [Каталог товаров с описанием](https://timbad1.github.io/React-Api/)
----
-
 #### [Приложение викторины на React (тест на знание html)](https://timbad1.github.io/react-quiz/)
 
 ***
